@@ -1,0 +1,41 @@
+body {body {
+    font-family: Inter,sans-serif,'Times New Roman', Times, serif;
+    }
+    
+    header {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    
+    .header__img {
+        height: 145px;
+        width: auto;
+    }
+    
+    .header__ul {
+        display: flex;
+        gap: 100px;
+        list-style-type: none;
+    }
+    
+    font-family: Inter,sans-serif,'Times New Roman', Times, serif;
+    }
+    
+    header {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    
+    .header__img {
+        height: 145px;
+        width: auto;
+    }
+    
+    .header__ul {
+        display: flex;
+        gap: 100px;
+        list-style-type: none;
+    }
+    
