@@ -1,0 +1,18 @@
+.btn {
+    display: inline-block;
+    font-weight: 600;
+    text-decoration: none;
+    letter-spacing: -0.05rem;
+    background-color: var(--clr-green);
+    color: var(--clr-light)
+    border: none;
+    border-radius: 7%;
+    padding: 0.5rem;
+    box-shadow: 0 10px 20px rgba(47, 107, 63, 0.5), 0 6px 6px rgba(47, 107, 63, 0.5), 0 0 100px -10px var(--clr-light);
+    transition: transform 0.3s, box-shadow 0.3s;
+    color: white;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+}
