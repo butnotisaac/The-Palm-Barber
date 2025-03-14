@@ -1,0 +1,56 @@
+.header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.header__menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 2em;
+    padding: 0;
+}
+
+.header__link {
+    font-size: var(--size-xs);
+    text-decoration: none;
+    font-weight: 600;
+    color: rgb(245, 245, 245);
+}
+
+.header__link:hover {
+    color: var(--g);
+}
+
+/* xs
+@media (min-width: 475px) {
+    
+} */
+
+/* sm */
+/* @media (min-width: 640x) {
+   
+} */
+
+/* md */
+/* @media (min-width: 768px) {
+ 
+} */
+
+/* lg */
+/* @media (min-width: 1024px) {
+  
+} */
+
+/* xl */
+/* @media (min-width: 1028px) {
+    
+} */
+
+/* 2xl */
+/* @media (min-width: 1536px) {
+    
+} */
