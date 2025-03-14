@@ -9,7 +9,7 @@
     border-radius: 15%;
     padding: 0.5rem;
     box-shadow: 0 10px 20px rgba(47, 107, 63, 0.5), 0 6px 6px rgba(47, 107, 63, 0.5), 0 0 100px -10px var(--clr-light);
-    transition: transform 0.3s;
+    transition: all 0.3s;
     color: white;
 }
 
@@ -23,3 +23,24 @@
     text-decoration: underline;
 }
 
+
+
+/* .container {} */
+
+/* xs */
+@media (min-width: 475px) {}
+
+/* sm */
+@media (min-width: 640x) {}
+
+/* md */
+@media (min-width: 768px) {}
+
+/* lg */
+@media (min-width: 1024px) {}
+
+/* xl */
+@media (min-width: 1280px) {}
+
+/* 2xl */
+@media (min-width: 1536px) {}
